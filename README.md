@@ -1,4 +1,5 @@
-# flixhub! - flixxi
+# kocmoc
+-flix
 repeat wait(0.1) until game:IsLoaded()
 
 getgenv().Star = "⭐"
